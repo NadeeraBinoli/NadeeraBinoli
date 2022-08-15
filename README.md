@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nadeera Binoli</h1>
 <h3 align="center">Enthusiastic and passionate web-developer embarking on a long journey</h3>
 
+![image](https://user-images.githubusercontent.com/95376457/184604022-e5161290-97c1-427c-84da-52e0b4385d63.png)
+
 - 🔭 I’m currently working on **buildup my portfolio**
 
 - 🌱 I’m currently learning **Node.js , python**

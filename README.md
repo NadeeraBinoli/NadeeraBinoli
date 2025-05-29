@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **nadeerabinoli@gmail.com**
 
-- ⚡ Fun fact **I love to draw**🎨👩‍🎨
+- ⚡ Fun fact **I love doodling**🎨👩‍🎨
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

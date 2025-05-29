@@ -3,7 +3,7 @@
 
 ![image](https://user-images.githubusercontent.com/95376457/184604022-e5161290-97c1-427c-84da-52e0b4385d63.png)
 
-- 🔭 I’m currently working on **buildup my portfolio**
+- 🔭 I’m currently working on **my university final project**
 
 - 🌱 I’m currently learning **Node.js , python**
 
